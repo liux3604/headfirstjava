@@ -1,0 +1,15 @@
+{
+  // tab长度
+  "editor.tabSize": 4,
+  // 启用后，将在保存文件时剪裁尾随空格。
+  "files.trimTrailingWhitespace": true,
+  // 配置 glob 模式以排除文件和文件夹。
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.DS_Store": true,
+    "**/.idea": true
+  },
+  "java.home": "/home/song/anaconda3/envs/java/bin/java",
+
+}
